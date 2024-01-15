@@ -1,8 +1,9 @@
 # Express.js-Challenge-Note-Taker
 
 # Description
-Created a note taker website, using express and node.js
+The Express.js Challenge Note Taker is a web development project that focuses on building a note-taking application using the Express.js framework. Express.js is a popular web application framework for Node.js that simplifies the process of building robust and scalable web applications. User Authentication: Implement user authentication to ensure secure access to note-taking functionality. This may involve user registration, login, and logout features.
 
+Note Creation and Editing: Users should be able to create new notes, edit existing ones, and organize them effectively. The application should support features like rich text formatting, attachments, and categorization of notes.
 # Table of Contents
 Express.js-Challenge-Note-Taker
 
