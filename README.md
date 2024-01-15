@@ -32,7 +32,8 @@ Joseph Okivie
 none
 
 # Screenshot
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/FlawlessJoey/Downloads/CU-VIRT-FSF-PT-07-2023-U-LOLC-main%252010/11-Express/02-Challenge/Develop/Screenshot%25202023-10-16%2520at%25202.17.21%25E2%2580%25AFPM.png?version%253D1697480365618)
+<img width="1512" alt="Screenshot 2024-01-15 at 2 56 42 AM" src="https://github.com/Joeokivie/Express.js-Challenge-Note-Taker/assets/138530272/5a86a4c1-4c2b-41d3-bb91-bbfedef53e26">
+
 
 # live heroku app
 https://fierce-eyrie-23256-871d02cb655a.herokuapp.com/
